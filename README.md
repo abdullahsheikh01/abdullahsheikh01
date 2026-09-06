@@ -90,6 +90,6 @@ Agentic loops, MCP integrations, autonomous systems (2026)
 
 ## GitHub Stats
 
-![abdullahsheikh01's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullahsheikh01&show_icons=true&theme=radical&hide_border=true)
+![abdullahsheikh01's GitHub stats](https://github-readme-stats-gamma-navy.vercel.app/api?username=abdullahsheikh01&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahsheikh01&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-gamma-navy.vercel.app/api/top-langs/?username=abdullahsheikh01&layout=compact&theme=radical&hide_border=true)
