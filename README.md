@@ -1,6 +1,6 @@
 # Abdullah Shaikh
 
-**AI Engineer & Full-Stack Developer** building autonomous agent systems and production web applications.
+**Agentic AI Developer & Full-Stack Developer** building autonomous agent systems and production web applications.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel&logoColor=white)](https://abdullah-shaikh-6601.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-shaikh-29699b302/)
